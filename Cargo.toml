@@ -1,0 +1,9 @@
+[package]
+name = "grep-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["matthewraaff"]
+
+[dependencies]
+console = "0.15.7"
+regex = "1.10.2"
